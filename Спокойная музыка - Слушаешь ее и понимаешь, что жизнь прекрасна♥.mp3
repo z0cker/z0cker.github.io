@@ -1,0 +1,1001 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" href="/images/icons/favicons/fav_logo.ico?5" />
+
+<link rel="apple-touch-icon" href="/images/safari_60.png?1">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/safari_76.png?1">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/safari_120.png?1">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/safari_152.png?1">
+
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<meta name="description" content="" />
+
+
+<title>Аудиозаписи Евгения Котова</title>
+
+<noscript><meta http-equiv="refresh" content="0; URL=/badbrowser.php"></noscript>
+
+  <link rel="stylesheet" type="text/css" href="/css/al/fonts_cnt.css?2889730895" />
+  <link rel="stylesheet" type="text/css" href="/css/al/common.css?25638623088" />
+
+<script type="text/javascript">
+var vk = {
+  ads_rotate_interval: 120000,
+  al: parseInt('3') || 4,
+  id: 409734516,
+  intnat: '' ? true : false,
+  host: 'vk.com',
+  lang: 0,
+  rtl: parseInt('') || 0,
+  version: 3975047396139,
+  stDomains: 0,
+  zero: false,
+  contlen: 73848,
+  loginscheme: 'https',
+  ip_h: '1c14c75a92f730d9f9',
+  vc_h: 'de6122b911d6b61d98503df9017bef93',
+  navPrefix: '/',
+  dt: parseInt('0') || 0,
+  fs: parseInt('13') || 13,
+  ts: 1491735338,
+  tz: 10800,
+  pd: 0,
+  pads: 1,
+  css_dir: '',
+  vcost: 7,
+  time: [2017, 4, 9, 13, 55, 38],
+  sampleUser: -1, spentLastSendTS: new Date().getTime(),
+  a11y: 0,
+  statusExportHash: '909b42fcf48d1b18df',
+  audioAdsConfig: {"enabled":false,"sections":["recent","audio_feed","friend","recs","recs_audio","recs_album","pop","pop_genre","pop_band","search","global_search","group_list","user_list"],"day_limit_reached":false},
+  isLongViewEnabled: false,
+
+  pr_tpl: "<div class=\"pr %cls%\" id=\"%id%\"><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><\/div>",
+
+  audioInlinePlayerTpl: "<div class=\"audio_inline_player _audio_inline_player no_select\">\n  <div class=\"audio_inline_player_right\">\n    <div class=\"audio_inline_player_volume\"><\/div>\n  <\/div>\n  <div class=\"audio_inline_player_left\">\n    <div class=\"audio_inline_player_progress\"><\/div>\n  <\/div>\n<\/div>",
+
+  tnsPixelType: ''
+};
+
+window.locDomain = vk.host.match(/[a-zA-Z]+\.[a-zA-Z]+\.?$/)[0];
+var _ua = navigator.userAgent.toLowerCase();
+if (/opera/i.test(_ua) || !/msie 6/i.test(_ua) || document.domain != locDomain) document.domain = locDomain;
+var ___htest = (location.toString().match(/#(.*)/) || {})[1] || '', ___to;
+___htest = ___htest.split('#').pop();
+if (vk.al != 1 && ___htest.length && ___htest.substr(0, 1) == vk.navPrefix) {
+  if (vk.al != 3 || vk.navPrefix != '!') {
+    ___to = ___htest.replace(/^(\/|!)/, '');
+    if (___to.match(/^([^\?]*\.php|login|mobile)([^a-z0-9\.]|$)/)) ___to = '';
+    location.replace(location.protocol + '//' + location.host + '/' + ___to);
+  }
+}
+
+var StaticFiles = {
+  'common.js' : {v: 1143},
+  'fonts_cnt.css' : {v: 2889730895},
+'common.css': {v: 25638623088}
+  ,'lang0_0.js':{v:6765},'ui_common.css':{v:15138442166},'ui_common.js':{v:2073087863},'audioplayer.js':{v:6425864519},'audio.js':{v:2995098174},'audio.css':{v:23798624917},'ui_controls.js':{v:35629744},'ui_controls.css':{v:16376457681},'auto_list.js':{v:2419796116},'indexer.js':{v:1640179507},'suggester.js':{v:3718548841},'grid_sorter.js':{v:703789694},'notifier.js':{v:33226060626},'notifier.css':{v:24077703040}
+}
+var abp;
+</script>
+
+<link type="text/css" rel="stylesheet" href="/css/al/ui_common.css?15138442166"></link><link type="text/css" rel="stylesheet" href="/css/al/audio.css?23798624917"></link><link type="text/css" rel="stylesheet" href="/css/ui_controls.css?16376457681"></link><link type="text/css" rel="stylesheet" href="/css/al/notifier.css?24077703040"></link><script type="text/javascript" src="/js/loader_nav3975047396139_0.js"></script><script type="text/javascript" src="/js/al/common.js?1143_1567955796"></script><script type="text/javascript" src="/js/lang0_0.js?6765"></script><script type="text/javascript" src="/js/lib/px.js?ch=1"></script><script type="text/javascript" src="/js/lib/px.js?ch=2"></script><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vk.com/audio?id=409734516" /><link rel="alternate" href="android-app://com.vkontakte.android/vkontakte/m.vk.com/audio?id=409734516" /><script type="text/javascript" src="/js/al/ui_common.js?2073087863"></script><script type="text/javascript" src="/js/al/audioplayer.js?6425864519"></script><script type="text/javascript" src="/js/al/audio.js?2995098174"></script><script type="text/javascript" src="/js/lib/ui_controls.js?35629744"></script><script type="text/javascript" src="/js/al/auto_list.js?2419796116"></script><script type="text/javascript" src="/js/al/indexer.js?1640179507"></script><script type="text/javascript" src="/js/al/suggester.js?3718548841"></script><script type="text/javascript" src="/js/al/grid_sorter.js?703789694"></script><script type="text/javascript" src="/js/al/notifier.js?33226060626"></script>
+
+</head>
+
+<body onresize="onBodyResize()" class="">
+  <div id="system_msg" class="fixed"></div>
+  <div id="utils"></div>
+
+  <div id="layer_bg" class="fixed"></div><div id="layer_wrap" class="scroll_fix_wrap fixed layer_wrap"><div id="layer"></div></div>
+  <div id="box_layer_bg" class="fixed"></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed"><div id="box_layer"><div id="box_loader"><div class="pr pr_baw pr_medium" id="box_loader_pr"><div class="pr_bt"></div><div class="pr_bt"></div><div class="pr_bt"></div></div><div class="back"></div></div></div></div>
+
+  <div id="stl_left"></div><div id="stl_side"></div>
+
+  <script type="text/javascript">domStarted();</script>
+
+  <div class="scroll_fix_wrap _page_wrap" id="page_wrap"><div><div class="scroll_fix">
+  
+
+  <div id="page_header_cont" class="page_header_cont">
+    <div class="back"></div>
+    <div id="page_header_wrap" class="page_header_wrap">
+      <a class="top_back_link" href="" id="top_back_link" onclick="if (nav.go(this, event, {back: true}) === false) { showBackLink(); return false; }" onmousedown="tnActive(this)"></a>
+      <div id="page_header" class="p_head p_head_l0" style="width: 960px">
+        <div class="content">
+          <div id="top_nav" class="head_nav">
+  <div class="head_nav_item fl_l"><a class="top_home_link fl_l " href="/feed" aria-label="На главную" accesskey="1"><div class="top_home_logo"></div></a></div>
+  <div class="head_nav_item fl_l"><div id="ts_wrap" class="ts_wrap" onmouseover="TopSearch.initFriendsList();">
+  <input name="disable-autofill" style="display: none;" />
+  <input type="text" onmousedown="event.cancelBubble = true;" ontouchstart="event.cancelBubble = true;" class="text ts_input" id="ts_input" autocomplete="off" name="disable-autofill" placeholder="Поиск" aria-label="Поиск" />
+</div></div>
+  <div class="head_nav_item fl_l head_nav_btns"><a id="top_notify_btn" class="top_nav_btn" href="#" onmouseover="TopNotifier.preload()" onmousedown="return (checkKeyboardEvent(event) ? false : TopNotifier.show(event));" onclick="return (checkEvent(event) ? true : (checkKeyboardEvent(event) ? TopNotifier.show(event) : false));" aria-haspopup="true" accesskey="2">
+  <span class="blind_label">Уведомления</span>
+  <div class="top_nav_btn_icon"></div>
+  <div id="top_notify_count" class="top_notify_count"></div>
+</a><span id="top_audio_layer_place"></span><a id="top_audio" href="#" class="top_nav_btn _top_nav_audio_btn"  onmouseover="prepareAudioLayer()" onmousedown="return (checkKeyboardEvent(event) ? false : showAudioLayer(event, this))" onclick="return (checkKeyboardEvent(event) ? showAudioLayer(event, this) : false);" aria-label="Аудиоплеер" aria-haspopup="true" accesskey="3">
+  <span class="blind_label">Аудиоплеер</span>
+  <div class="top_nav_btn_icon"></div>
+</a></div>
+  <div class="head_nav_item fl_r"><a id="top_profile_link" class="top_nav_link top_profile_link" href="/als112" onclick="return (checkKeyboardEvent(event) ? TopMenu.clicked : checkEvent)(event);" aria-label="Настройки страницы" aria-haspopup="true" accesskey="4">
+  <span class="blind_label">Настройки страницы</span>
+  <div class="top_profile_name">Евгений</div><img class="top_profile_img" src="https://pp.userapi.com/c636827/v636827516/5c2b8/LH7XoIXU8VM.jpg" alt="Евгений" /><div class="top_profile_arrow"></div>
+</a><div id="top_profile_menu" ontouchstart="event.cancelBubble = true;" onmousedown="event.cancelBubble = true;">
+  <a class="top_profile_mrow" id="top_myprofile_link" href="/als112" onclick="return TopMenu.select(this, event);" style="">Моя страница</a>
+  <div class="top_profile_sep" style=""></div>
+  <a class="top_profile_mrow" id="top_edit_link" href="/edit" onclick="return TopMenu.select(this, event);" style="">Редактировать</a>
+  <a class="top_profile_mrow" id="top_settings_link" href="/settings" onclick="return TopMenu.select(this, event);" style="">Настройки</a>
+  <a class="top_profile_mrow" id="top_support_link" href="/support?act=home" onclick="return TopMenu.select(this, event);">Помощь</a>
+  <div class="top_profile_sep" style=""></div>
+  <a class="top_profile_mrow" id="top_logout_link" href="https://login.vk.com/?act=logout&hash=0a3b92ab3b887b69a7&reason=tn&_origin=https://vk.com" onclick="if (checkEvent(event) === false) { window.AudioPlayer && AudioPlayer.clearAllCacheKeys(); window.Notifier && Notifier.lcSend('logged_off'); location.href = this.href; return cancelEvent(event); }">Выйти</a>
+</div></div>
+  <div class="head_nav_item_player"><div class="top_audio_player" id="top_audio_player">
+  <button class="top_audio_player_btn top_audio_player_prev" accesskey="j"><div class="blind_label">Предыдущая аудиозапись</div><div class="top_audio_player_btn_icon"></div></button>
+  <button class="top_audio_player_btn top_audio_player_play" accesskey="k"><div class="blind_label _top_audio_player_play_blind_label">Предыдущая аудиозапись</div><div class="top_audio_player_btn_icon"></div></button>
+  <button class="top_audio_player_btn top_audio_player_next" accesskey="l"><div class="blind_label">Следующая аудиозапись</div><div class="top_audio_player_btn_icon"></div></button>
+  <div class="top_audio_player_title_wrap"><div class="top_audio_player_title"></div></div>
+</div></div>
+</div>
+<div id="ts_cont_wrap" class="ts_cont_wrap" ontouchstart="event.cancelBubble = true;" onmousedown="event.cancelBubble = true;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="page_layout" style="width: 960px;">
+    <div id="side_bar" class="fl_l " style="">
+      <div id="side_bar_inner" class="side_bar_inner">
+        <ol>
+  <li id="l_pr" class=""><a href="/als112" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Моя Страница</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_nwsf" class=""><a href="/feed" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Новости</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_msg" class=""><a href="/im" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r"><span class="inl_bl left_count">10</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Сообщения</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_fr" class=""><a href="/friends" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <object type="internal/link"><a href="/friends?section=requests" onclick="nav.link && nav.link('/friends?section=requests', event); cancelEvent(event);" class="left_count_wrap fl_r left_void left_count_wrap_hovered"><span class="inl_bl left_count_sign">0</span></a></object>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Друзья</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_gr" class=""><a href="/groups" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Группы</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_ph" class=""><a href="/albums409734516" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Фотографии</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_aud" class=""><a href="/audios409734516" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Аудиозаписи</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_vid" class=""><a href="/video" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Видеозаписи</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_ap" class=""><a href="/apps" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Игры</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><div class="more_div l_main"></div><li id="l_mk" class=""><a href="/market?only_friends=1" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r"><span class="inl_bl left_count">2</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Товары</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_doc" class=""><a href="/docs" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Документы</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_apm" class=""><a href="/apps?act=manage" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Управление</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li>
+</ol>
+<div id="left_blocks"></div><div id="ads_left" class="ads_left_empty"></div><div class="left_menu_nav_wrap"><a class="left_menu_nav" href="/blog">Блог</a> <a class="left_menu_nav" href="/dev">Разработчикам</a> <a class="left_menu_nav" href="/ads">Реклама</a> <div class="ui_actions_menu_wrap _ui_menu_wrap " onmouseover="uiActionsMenu.show(this, event, {autopos: true, dy: 6});" onmouseout="uiActionsMenu.hide(this);">
+  <div class="ui_actions_menu_icons"  tabindex="0" aria-label="Действия" role="button" onclick="uiActionsMenu.keyToggle(this, event);"><span class="blind_label">Действия</span><a class="left_menu_nav left_menu_more" id="left_menu_more">Ещё</a></div>
+  <div class="ui_actions_menu _ui_menu" ><a class="ui_actions_menu_item" href="/about">О компании</a><a class="ui_actions_menu_item" href="/jobs">Вакансии</a><a class="ui_actions_menu_item" href="/terms">Правила</a><a class="ui_actions_menu_item" href="/support?act=home">Помощь</a><a class="ui_actions_menu_item" onclick="showBox('lang.php', {act: 'lang_dialog'}, {params: {bodyStyle: 'padding: 0'}, noreload: true})" tabindex="0" role="link">Язык: русский</a></div>
+</div></div>
+      </div>
+    </div>
+
+    <div id="page_body" class="fl_r " style="width: 795px;">
+      <div id="header_wrap2">
+        <div id="header_wrap1">
+          <div id="header" style="display: none">
+            <h1 id="title"></h1>
+          </div>
+        </div>
+      </div>
+      <div id="wrap_between"></div>
+      <div id="wrap3"><div id="wrap2">
+  <div id="wrap1">
+    <div id="content"><div class="_audio_layout audio_layout "><div class="wide_column_left">
+  <div class="narrow_column_wrap">
+    <div class="narrow_column" id="narrow_column">
+      <div class="page_block ui_rmenu ui_rmenu_pr" role="list">
+  <a id="ui_rmenu_audio_album_409734516_-2" href="/audios409734516" class="ui_rmenu_item _ui_item_audio_album_409734516_-2 ui_rmenu_item_sel" role="listitem"  onclick="return uiRightMenu.go(this, event);">
+  <span><button class="audio_upload_btn audio_menu_btn" onclick="return AudioPage(this).uploadAudio({});" onmouseover="showTooltip(this, {text: 'Добавить аудиозапись', black: 1, shift: [14, 9, 10]})"><span class="blind_label">Добавить аудиозапись</span></button>Мои аудиозаписи</span>
+</a><a id="ui_rmenu_audio_feed_409734516" href="/audios409734516?section=feed" class="ui_rmenu_item _ui_item_audio_feed_409734516" role="listitem"  onclick="return uiRightMenu.go(this, event);">
+  <span><div class="audio_edit_feed_btn audio_menu_btn" onclick="return AudioPage(this).editFeed();" onmouseover="showTooltip(this, {text: 'Редактировать список друзей', appendParentCls: '_audio_layer', black: 1, shift: [13, 9, 0]})"></div>Обновления друзей</span>
+</a><a id="ui_rmenu_audio_recoms_409734516" href="/audios409734516?section=recoms" class="ui_rmenu_item _ui_item_audio_recoms_409734516" role="listitem"  onclick="return uiRightMenu.go(this, event);">
+  <span>Рекомендации</span>
+</a><a id="ui_rmenu_audio_popular_409734516" href="/audios409734516?section=popular" class="ui_rmenu_item _ui_item_audio_popular_409734516" role="listitem"  onclick="return uiRightMenu.go(this, event);">
+  <span>Популярные</span>
+</a><a id="ui_rmenu_audio_recent_409734516" href="/audios409734516?section=recent" class="ui_rmenu_item _ui_item_audio_recent_409734516" role="listitem"  onclick="return uiRightMenu.go(this, event);">
+  <span>Прослушанные</span>
+</a><div id="ui_rmenu_audio_albums" class="ui_rmenu_item _ui_item_audio_albums ui_rmenu_item_expanded _ui_rmenu_audio_albums_toggle" role="listitem"  data-on-toggle="AudioPage(el).onSubmenuToggle()"  onclick="return uiRightMenu.toggleSubmenu('audio_albums', this);" id="ui_rmenu_audio_albums_toggle">
+  <span>Мои альбомы<span class="ui_rmenu_item_arrow"></span></span>
+</div><div id="ui_rmenu_audio_albums_list" data-sublist-id="audio_albums" class="_ui_rmenu_sublist _ui_rmenu_audio_albums_list ">
+  <div id="ui_rmenu_audio_album_add" class="ui_rmenu_subitem _ui_rmenu_subitem _ui_item_audio_album_add" role="listitem"  onclick="return uiRightMenu.go(this, event);">
+  <span><div onclick="return AudioPage(this).createAlbum(event, this);">
+  <div class="audio_album_btns">
+    <div class="audio_album_btn audio_album_add_btn"><div class="audio_album_btn_icon"></div></div>
+  </div>
+  <div class="audio_album_title">Создать альбом</div>
+</div></span>
+</div>
+</div>
+  <div class="ui_rmenu_slider _ui_rmenu_slider"></div>
+</div><div class="page_block _audio_foreign_filter_block  unshown" id="">
+  <div class="ui_toggler_wrap" onclick="AudioPage(this).toggleForeign(this)">
+  <div class="_ui_toggler ui_toggler "></div>
+  <div class="ui_toggler_label">Только зарубежные</div>
+</div>
+</div><div class="_audio_additional_blocks_wrap _audio_additional_blocks_wrap_right"></div>
+    </div>
+  </div>
+  <div class="wide_column_wrap">
+    <div class="wide_column" id="wide_column">
+      <div class="page_block" id="">
+  <div class="_audio_rows_header audio_rows_header">
+  <div class="audio_page_player _audio_page_player _audio_row clear_fix">
+  <button class="audio_page_player_ctrl audio_page_player_play _audio_page_player_play" onclick="cancelEvent(event); AudioPage(this).togglePlayerPlay(this)"><span class="blind_label _play_blind_label">Воспроизвести</span><div class="icon"></div></button>
+  <button class="audio_page_player_ctrl audio_page_player_prev" onclick="getAudioPlayer().playPrev()"><span class="blind_label">Предыдущая аудиозапись</span><div class="icon"></div></button>
+  <button class="audio_page_player_ctrl audio_page_player_next" onclick="getAudioPlayer().playNext()"><span class="blind_label">Следующая аудиозапись</span><div class="icon"></div></button>
+  
+  <div class="audio_page_player_ctrl audio_page_player_btns _audio_page_player_btns clear_fix">
+    <button class="audio_page_player_btn audio_page_player_add _audio_page_player_add" id="add" onclick="AudioUtils.addAudio(this)" style="display: none" onmouseover="audioShowActionTooltip(this)"><span class="blind_label">Добавить в Мои Аудиозаписи</span><div class="icon"></div></button>
+    <button class="audio_page_player_btn audio_page_player_shuffle" onclick="AudioPage(this).toggleShuffle(this)" onmouseover="AudioPage.showActionTooltip(this, 'Перемешать')"><span class="blind_label">Перемешать</span><div class="icon"></div></button>
+    <button class="audio_page_player_btn audio_page_player_repeat _audio_page_player_repeat" onclick="AudioPage(this).toggleRepeat(this)" onmouseover="AudioPage.showActionTooltip(this, 'Повторять эту композицию')"><span class="blind_label _blind_label">Повторять эту композицию</span><div class="icon"></div></button>
+    <button class="audio_page_player_btn audio_page_player_recoms" onclick="AudioPage(this).showRecoms(this, null, event)" onmouseover="AudioPage.showActionTooltip(this, 'Показать похожие')"><span class="blind_label">Показать похожие</span><div class="icon"></div></button>
+    <div class="audio_page_player_btn audio_page_player_status _audio_page_player_status"
+         onmouseleave="cur._onStatusExportBtn = false;"
+         onmouseover="cur._onStatusExportBtn = true; AudioPage(this).showStatusTooltip(this)"><div class="icon" onclick="AudioPage(this).updateStatusExport()"></div></div>
+  </div>
+  <div class="audio_page_player_ctrl audio_page_player_track clear_fix">
+    <div class="audio_page_player_volume_wrap"><div class="audio_page_player_volume_slider"></div></div>
+    <div class="audio_page_player_track_wrap">
+      <div class="audio_page_player_track_info_wrap clear_fix">
+        <div class="audio_page_player_duration" onclick="getAudioPlayer().toggleDurationType()">4:20</div>
+        <div class="audio_page_player_title" onmouseover="AudioPage(this).setTooltipTitle(this)"><span class="audio_page_player_title_performer">Спокойная музыка</span><span class="audio_page_player_title_song">– Слушаешь ее и понимаешь, что жизнь прекрасна&#9829;</span></div>
+      </div>
+      <div class="audio_page_player_track_slider"></div>
+    </div>
+  </div>
+</div>
+</div>
+<div class="_audio_padding_cont">
+  <div class="ui_search_new ui_search ui_search_field_empty _audio_search_input audio_search_input _wrap">
+  <div class="ui_search_input_block">
+    <button class="ui_search_button_search _ui_search_button_search"></button>
+    <div class="ui_search_input_inner">
+      <div class="ui_search_progress"></div>
+      <div class="ui_search_controls">
+        <button class="ui_search_params_button _ui_search_params_button ui_search_button_control" onclick="uiSearch.toggleParameters(this, event)" onmouseover="showTooltip(this, {appendParentCls: '_audio_layout', black: true, text: 'Параметры поиска', shift: [6, 2, 0]})"></button>
+        <button class="ui_search_reset_button ui_search_button_control" onclick="return uiSearch.reset(this, false, event);" onmouseover="showTooltip(this, {appendParentCls: '_audio_layout', black: true, text: 'Очистить поиск', shift: [6, 2, 0]})"></button>
+      </div>
+      <div class="ui_search_suggester_shadow _ui_search_suggester_shadow"></div>
+      <input type="text" class="ui_search_field _field" id="audio_search" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"  placeholder="Поиск по аудиозаписям" />
+    </div>
+  </div>
+  <div class="ui_search_sugg_list _ui_search_sugg_list"></div>
+  <div class="ui_search_filters_pane" style="display: none;">
+    <div class="ui_search_filters"></div>
+  </div>
+</div>
+  <div class="audio_empty_placeholder _audio_empty_placeholder no_rows" style="display: none"></div>
+  <div class="_audio_additional_blocks_wrap _audio_additional_blocks_wrap_top"></div>
+  <div class="audio_rows _audio_rows">
+    <div class="audio_playlist_wrap _audio_playlist" data-pl-id="" data-pl-name="">
+  <div class="audio_row _audio_row _audio_row_409734516_456239036 lyrics canedit ltb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239036,409734516,&quot;&quot;,&quot;Слушаешь ее и понимаешь, что жизнь прекрасна&amp;#9829;&quot;,&quot;Спокойная музыка&quot;,260,0,0,&quot;&quot;,6539380,32774,&quot;&quot;,&quot;[]&quot;,&quot;\/c521bf1c1ec39f08ea\/aa1d61131673eae0db&quot;]" data-full-id="409734516_456239036" id="audio_409734516_456239036">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239036" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">4:20</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239036')" onclick="AudioPage(this).showRecoms(this, '409734516_456239036', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239036')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239036')" onclick="AudioPage(this).editAudio(this, '409734516_456239036', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239036', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239036')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239036')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">Спокойная музыка</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Слушаешь ее и понимаешь, что жизнь прекрасна&#9829;" onclick="return toggleAudioLyrics(event, this, '409734516_456239036', '6539380')">Слушаешь ее и понимаешь, что жизнь прекрасна&#9829;</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239035 canedit ltb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239035,409734516,&quot;&quot;,&quot;Карл у Клары украл корралы&quot;,&quot;Исполнитель бот&quot;,7,0,0,&quot;&quot;,0,32772,&quot;&quot;,&quot;[]&quot;,&quot;\/ca0e7656b7e7a5ddc4\/63f3ebf0cfab6cf400&quot;]" data-full-id="409734516_456239035" id="audio_409734516_456239035">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239035" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">0:07</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239035')" onclick="AudioPage(this).showRecoms(this, '409734516_456239035', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239035')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239035')" onclick="AudioPage(this).editAudio(this, '409734516_456239035', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239035', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239035')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239035')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">Исполнитель бот</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Карл у Клары украл корралы" onclick="return toggleAudioLyrics(event, this, '409734516_456239035', '0')">Карл у Клары украл корралы</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239034 canedit clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239034,409734516,&quot;&quot;,&quot;Тает Лед &quot;,&quot;Грибы&quot;,200,0,0,&quot;&quot;,0,4,&quot;&quot;,&quot;[]&quot;,&quot;\/92759f7aa754b4eb43\/e6cb9939f70944ad94&quot;]" data-full-id="409734516_456239034" id="audio_409734516_456239034">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239034" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">3:20</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239034')" onclick="AudioPage(this).showRecoms(this, '409734516_456239034', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239034')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239034')" onclick="AudioPage(this).editAudio(this, '409734516_456239034', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239034', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239034')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239034')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">Грибы</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Тает Лед " onclick="return toggleAudioLyrics(event, this, '409734516_456239034', '0')">Тает Лед </span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239033 canedit hq lpb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239033,409734516,&quot;&quot;,&quot;Оп,эроина,оп&quot;,&quot;Carla&amp;#39;s Dreams - Sub Pielea Mea (Midi Culture Remix) (SaB Bass)&quot;,214,0,0,&quot;&quot;,0,16900,&quot;&quot;,&quot;[]&quot;,&quot;\/e19930ada2888e28a1\/f8e836c56caf10ac2b&quot;]" data-full-id="409734516_456239033" id="audio_409734516_456239033">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239033" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">3:34</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239033')" onclick="AudioPage(this).showRecoms(this, '409734516_456239033', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239033')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239033')" onclick="AudioPage(this).editAudio(this, '409734516_456239033', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239033', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239033')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239033')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">Carla&#39;s Dreams - Sub Pielea Mea (Midi Culture Remix) (SaB Bass)</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Оп,эроина,оп" onclick="return toggleAudioLyrics(event, this, '409734516_456239033', '0')">Оп,эроина,оп</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239032 lyrics canedit hq ltb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239032,409734516,&quot;&quot;,&quot;Хорошо там, где нас нет (OST «Родина») 2015&quot;,&quot;БАСТА&quot;,299,0,0,&quot;&quot;,287239316,33286,&quot;&quot;,&quot;[]&quot;,&quot;\/6c31a876933b2a1665\/a728ff2096fe1ee627&quot;]" data-full-id="409734516_456239032" id="audio_409734516_456239032">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239032" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">4:59</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239032')" onclick="AudioPage(this).showRecoms(this, '409734516_456239032', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239032')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239032')" onclick="AudioPage(this).editAudio(this, '409734516_456239032', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239032', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239032')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239032')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">БАСТА</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Хорошо там, где нас нет (OST «Родина») 2015" onclick="return toggleAudioLyrics(event, this, '409734516_456239032', '287239316')">Хорошо там, где нас нет (OST «Родина») 2015</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239031 lyrics canedit hq lpb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239031,409734516,&quot;&quot;,&quot;Сладкий Бред ( Русский Рэп,Лучшая музыка,Хиты 2013,2014,2015,2016 - Хит,Стиль,Музыка в Машину,Басс,бит,Минус,про любовь,самая самая,любимая,нежная,Денис Райдер,Крид,Егор,Актив,супер,баттл&quot;,&quot;Aktiv (В Машину,В тачку,Басс,САБ,Басы,хит 2015,2016,хитяра PHARAOH, Жак-Энтани,Скриптонит,Трап,The Chemodan Clan,HOMIE,ZippO,Dramma,Лёша Свик,Adamant,dom&amp;#33;No,Денис Rider,Tanir,K.R.A,Баста,Смоки МО,Скриптонит,Тони,Тимоти,Руки Вверх,Brick Bazuka,Грязный &quot;,197,0,0,&quot;&quot;,308703488,16902,&quot;&quot;,&quot;[]&quot;,&quot;\/0d639d0b283bf90152\/3de317e1a30d55ff35&quot;]" data-full-id="409734516_456239031" id="audio_409734516_456239031">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239031" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">3:17</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239031')" onclick="AudioPage(this).showRecoms(this, '409734516_456239031', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239031')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239031')" onclick="AudioPage(this).editAudio(this, '409734516_456239031', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239031', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239031')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239031')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">Aktiv (В Машину,В тачку,Басс,САБ,Басы,хит 2015,2016,хитяра PHARAOH, Жак-Энтани,Скриптонит,Трап,The Chemodan Clan,HOMIE,ZippO,Dramma,Лёша Свик,Adamant,dom&#33;No,Денис Rider,Tanir,K.R.A,Баста,Смоки МО,Скриптонит,Тони,Тимоти,Руки Вверх,Brick Bazuka,Грязный </a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Сладкий Бред ( Русский Рэп,Лучшая музыка,Хиты 2013,2014,2015,2016 - Хит,Стиль,Музыка в Машину,Басс,бит,Минус,про любовь,самая самая,любимая,нежная,Денис Райдер,Крид,Егор,Актив,супер,баттл" onclick="return toggleAudioLyrics(event, this, '409734516_456239031', '308703488')">Сладкий Бред ( Русский Рэп,Лучшая музыка,Хиты 2013,2014,2015,2016 - Хит,Стиль,Музыка в Машину,Басс,бит,Минус,про любовь,самая самая,любимая,нежная,Денис Райдер,Крид,Егор,Актив,супер,баттл</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239030 canedit hq ltb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239030,409734516,&quot;&quot;,&quot; Копы не любят нас,мы наваливаем басс&quot;,&quot;Грибы&quot;,138,0,0,&quot;&quot;,0,33284,&quot;&quot;,&quot;[]&quot;,&quot;\/dd0f074c810cad467c\/1426efd1a39e7aa5a5&quot;]" data-full-id="409734516_456239030" id="audio_409734516_456239030">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239030" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">2:18</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239030')" onclick="AudioPage(this).showRecoms(this, '409734516_456239030', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239030')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239030')" onclick="AudioPage(this).editAudio(this, '409734516_456239030', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239030', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239030')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239030')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">Грибы</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label=" Копы не любят нас,мы наваливаем басс" onclick="return toggleAudioLyrics(event, this, '409734516_456239030', '0')"> Копы не любят нас,мы наваливаем басс</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239029 canedit lpb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239029,409734516,&quot;&quot;,&quot;Invincible&quot;,&quot;D&amp;#926;AF K&amp;#926;V&quot;,279,0,0,&quot;&quot;,0,16388,&quot;&quot;,&quot;[]&quot;,&quot;\/4372d78b4db3fb25bf\/cdc0c047f125ef5aca&quot;]" data-full-id="409734516_456239029" id="audio_409734516_456239029">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239029" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">4:39</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239029')" onclick="AudioPage(this).showRecoms(this, '409734516_456239029', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239029')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239029')" onclick="AudioPage(this).editAudio(this, '409734516_456239029', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239029', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239029')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239029')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">D&#926;AF K&#926;V</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Invincible" onclick="return toggleAudioLyrics(event, this, '409734516_456239029', '0')">Invincible</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239028 lyrics canedit clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239028,409734516,&quot;&quot;,&quot;Green Lights&quot;,&quot;E-dubble&quot;,235,0,0,&quot;&quot;,173966195,6,&quot;&quot;,&quot;[]&quot;,&quot;\/5b52c1c7f3339abac4\/9c1ec89ec0d0e8030c&quot;]" data-full-id="409734516_456239028" id="audio_409734516_456239028">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239028" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">3:55</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239028')" onclick="AudioPage(this).showRecoms(this, '409734516_456239028', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239028')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239028')" onclick="AudioPage(this).editAudio(this, '409734516_456239028', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239028', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239028')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239028')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">E-dubble</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Green Lights" onclick="return toggleAudioLyrics(event, this, '409734516_456239028', '173966195')">Green Lights</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239027 lyrics canedit clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239027,409734516,&quot;&quot;,&quot;Let Me Oh&quot;,&quot;E-dubble&quot;,196,0,0,&quot;&quot;,170443942,6,&quot;&quot;,&quot;[]&quot;,&quot;\/ea0287dcc27e4d1495\/40f60105b795c706f7&quot;]" data-full-id="409734516_456239027" id="audio_409734516_456239027">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239027" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">3:16</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239027')" onclick="AudioPage(this).showRecoms(this, '409734516_456239027', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239027')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239027')" onclick="AudioPage(this).editAudio(this, '409734516_456239027', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239027', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239027')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239027')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">E-dubble</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Let Me Oh" onclick="return toggleAudioLyrics(event, this, '409734516_456239027', '170443942')">Let Me Oh</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239026 lyrics canedit clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239026,409734516,&quot;&quot;,&quot;Loosen up&quot;,&quot;E-Dubble&quot;,231,0,0,&quot;&quot;,170444123,6,&quot;&quot;,&quot;[]&quot;,&quot;\/1202eb4e6be471d2db\/9b0dcc25f686d9d82c&quot;]" data-full-id="409734516_456239026" id="audio_409734516_456239026">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239026" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">3:51</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239026')" onclick="AudioPage(this).showRecoms(this, '409734516_456239026', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239026')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239026')" onclick="AudioPage(this).editAudio(this, '409734516_456239026', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239026', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239026')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239026')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">E-Dubble</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Loosen up" onclick="return toggleAudioLyrics(event, this, '409734516_456239026', '170444123')">Loosen up</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239025 lyrics canedit hq clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239025,409734516,&quot;&quot;,&quot;Night Table&quot;,&quot;E-dubble&quot;,144,0,0,&quot;&quot;,170637950,518,&quot;&quot;,&quot;[]&quot;,&quot;\/a1c666ee3129619468\/8f198318ae0ff0531b&quot;]" data-full-id="409734516_456239025" id="audio_409734516_456239025">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239025" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">2:24</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239025')" onclick="AudioPage(this).showRecoms(this, '409734516_456239025', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239025')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239025')" onclick="AudioPage(this).editAudio(this, '409734516_456239025', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239025', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239025')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239025')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">E-dubble</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Night Table" onclick="return toggleAudioLyrics(event, this, '409734516_456239025', '170637950')">Night Table</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239024 lyrics canedit ltb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239024,409734516,&quot;&quot;,&quot;Roller Coaster&quot;,&quot;E-dubble&quot;,183,0,0,&quot;&quot;,173961282,32774,&quot;&quot;,&quot;[]&quot;,&quot;\/d816689a1875d2a590\/b031ce9ee3c0740f94&quot;]" data-full-id="409734516_456239024" id="audio_409734516_456239024">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239024" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">3:03</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239024')" onclick="AudioPage(this).showRecoms(this, '409734516_456239024', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239024')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239024')" onclick="AudioPage(this).editAudio(this, '409734516_456239024', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239024', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239024')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239024')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">E-dubble</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Roller Coaster" onclick="return toggleAudioLyrics(event, this, '409734516_456239024', '173961282')">Roller Coaster</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239023 canedit ltb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239023,409734516,&quot;&quot;,&quot;Haschpapies Edit&quot;,&quot;EgMan&quot;,285,0,0,&quot;&quot;,0,32772,&quot;&quot;,&quot;[]&quot;,&quot;\/6246457358a89471d9\/008f18b8d7f8060198&quot;]" data-full-id="409734516_456239023" id="audio_409734516_456239023">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239023" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">4:45</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239023')" onclick="AudioPage(this).showRecoms(this, '409734516_456239023', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239023')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239023')" onclick="AudioPage(this).editAudio(this, '409734516_456239023', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239023', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239023')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239023')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">EgMan</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Haschpapies Edit" onclick="return toggleAudioLyrics(event, this, '409734516_456239023', '0')">Haschpapies Edit</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239022 lyrics canedit hq lpb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239022,409734516,&quot;&quot;,&quot;We Run The Street&quot;,&quot;EH&amp;#33;DE &amp;amp; Funk4Mation&quot;,223,0,0,&quot;&quot;,208193452,16902,&quot;&quot;,&quot;[]&quot;,&quot;\/342e1fecd402d0080c\/f10cf6ad0bcfe0d804&quot;]" data-full-id="409734516_456239022" id="audio_409734516_456239022">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239022" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">3:43</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239022')" onclick="AudioPage(this).showRecoms(this, '409734516_456239022', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239022')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239022')" onclick="AudioPage(this).editAudio(this, '409734516_456239022', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239022', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239022')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239022')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">EH&#33;DE &amp; Funk4Mation</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="We Run The Street" onclick="return toggleAudioLyrics(event, this, '409734516_456239022', '208193452')">We Run The Street</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239021 lyrics canedit hq ltb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239021,409734516,&quot;&quot;,&quot;Jingle Bells (Original Mix)&quot;,&quot;EH&amp;#33;DE&quot;,304,0,0,&quot;&quot;,215220380,33286,&quot;&quot;,&quot;[]&quot;,&quot;\/e6b8b508b10e5403ea\/88f288175b28794c82&quot;]" data-full-id="409734516_456239021" id="audio_409734516_456239021">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239021" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">5:04</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239021')" onclick="AudioPage(this).showRecoms(this, '409734516_456239021', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239021')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239021')" onclick="AudioPage(this).editAudio(this, '409734516_456239021', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239021', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239021')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239021')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">EH&#33;DE</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Jingle Bells (Original Mix)" onclick="return toggleAudioLyrics(event, this, '409734516_456239021', '215220380')">Jingle Bells (Original Mix)</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239020 lyrics canedit hq lpb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239020,409734516,&quot;&quot;,&quot;Origin&quot;,&quot;Electric Joy Ride&quot;,306,0,0,&quot;&quot;,171288198,16902,&quot;&quot;,&quot;[]&quot;,&quot;\/33b2224e60eb01c40f\/b02f475e1684d2d9fd&quot;]" data-full-id="409734516_456239020" id="audio_409734516_456239020">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239020" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">5:06</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239020')" onclick="AudioPage(this).showRecoms(this, '409734516_456239020', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239020')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239020')" onclick="AudioPage(this).editAudio(this, '409734516_456239020', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239020', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239020')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239020')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">Electric Joy Ride</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Origin" onclick="return toggleAudioLyrics(event, this, '409734516_456239020', '171288198')">Origin</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239019 lyrics canedit lpb clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239019,409734516,&quot;&quot;,&quot;Fly&quot;,&quot;ElectroActive&quot;,265,0,0,&quot;&quot;,289531394,16390,&quot;&quot;,&quot;[]&quot;,&quot;\/aa2024fd01474cc0ed\/6e6425d5551303ec59&quot;]" data-full-id="409734516_456239019" id="audio_409734516_456239019">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239019" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">4:25</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239019')" onclick="AudioPage(this).showRecoms(this, '409734516_456239019', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239019')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239019')" onclick="AudioPage(this).editAudio(this, '409734516_456239019', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239019', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239019')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239019')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">ElectroActive</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Fly" onclick="return toggleAudioLyrics(event, this, '409734516_456239019', '289531394')">Fly</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239018 canedit hq clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239018,409734516,&quot;&quot;,&quot;Symbolism&quot;,&quot;Electro Light&quot;,293,0,0,&quot;&quot;,0,516,&quot;&quot;,&quot;[]&quot;,&quot;\/c6be79d25f20dde240\/ab4fa9ab2fb60ff5a4&quot;]" data-full-id="409734516_456239018" id="audio_409734516_456239018">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239018" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">4:53</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239018')" onclick="AudioPage(this).showRecoms(this, '409734516_456239018', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239018')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239018')" onclick="AudioPage(this).editAudio(this, '409734516_456239018', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239018', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239018')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239018')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">Electro Light</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="Symbolism" onclick="return toggleAudioLyrics(event, this, '409734516_456239018', '0')">Symbolism</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div><div class="audio_row _audio_row _audio_row_409734516_456239017 lyrics canedit hq clear_fix" onclick="return getAudioPlayer().toggleAudio(this, event)" data-audio="[456239017,409734516,&quot;&quot;,&quot;агарио&quot;,&quot;для видео&quot;,231,0,0,&quot;&quot;,292854966,518,&quot;&quot;,&quot;[]&quot;,&quot;\/ef19cf0970e0999811\/9853f29358be70afd6&quot;]" data-full-id="409734516_456239017" id="audio_409734516_456239017">
+  <div class="audio_play_wrap" data-nodrag="1"><button class="audio_play _audio_play" id="play_409734516_456239017" aria-label="Воспроизвести "></button></div>
+  <div class="audio_info">
+    <div class="audio_duration_wrap _audio_duration_wrap">
+      <div class="audio_hq_label"></div>
+      <div class="audio_duration _audio_duration">3:51</div>
+      <div class="audio_acts">
+        <div class="audio_act" id="recom" onmouseover="audioShowActionTooltip(this, '409734516_456239017')" onclick="AudioPage(this).showRecoms(this, '409734516_456239017', event)"><div></div></div>
+        <div class="audio_act" id="next" onmouseover="audioShowActionTooltip(this, '409734516_456239017')" onclick="getAudioPlayer().setNext(this, event)"><div></div></div>
+        <div class="audio_act" id="edit" onmouseover="audioShowActionTooltip(this, '409734516_456239017')" onclick="AudioPage(this).editAudio(this, '409734516_456239017', event)"><div></div></div>
+        <div class="audio_act _audio_act_delete" id="delete" onclick="AudioPage(this).deleteAudio(this, '409734516_456239017', event)" onmouseover="audioShowActionTooltip(this, '409734516_456239017')"><div></div></div>
+        <div class="audio_act" id="add" onclick="return addAudio(this, event)" onmouseover="audioShowActionTooltip(this, '409734516_456239017')"><div></div></div>
+        
+        
+      </div>
+    </div>
+    <div class="audio_title_wrap"
+     ><a href="" onmouseover="setTitle(this)" nodrag="1" onclick="return audioSearchPerformer(this, event)" class="audio_performer">для видео</a
+     ><span class="audio_info_divider">&ndash;</span
+     ><span class="audio_title _audio_title" onmouseover="setTitle(this, domPN(this))"
+        ><span class="audio_title_inner" tabindex="0" nodrag="1" aria-label="агарио" onclick="return toggleAudioLyrics(event, this, '409734516_456239017', '292854966')">агарио</span>
+        
+        <span class="audio_author" onclick="cur.cancelClick=true"></span>
+      </span
+    ></div>
+  </div>
+  <div class="_audio_player_wrap"></div>
+  <div class="_audio_lyrics_wrap audio_lyrics" data-nodrag="1"></div>
+</div>
+</div>
+  </div>
+  <div id="ui_audio_load_more" class="flat_button secondary ui_load_more_btn _ui_load_more_btn _ui_audio_load_more " onclick="" style="display: none" data-type="audio">
+  Показать больше
+</div>
+</div>
+</div>
+    </div>
+  </div>
+</div></div></div>
+  </div>
+</div></div>
+    </div>
+
+    <div id="footer_wrap" class="footer_wrap fl_r" style="width: 795px;"></div>
+    <div class="clear"></div>
+  </div>
+</div></div><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2579437;pid=409734516;js=na" style="border:0;" height="1" width="1" />
+</div></noscript></div>
+  <div class="progress" id="global_prg"></div>
+
+  <script type="text/javascript">
+    if (parent && parent != window && (browser.msie || browser.opera || browser.mozilla || browser.chrome || browser.safari || browser.iphone)) {
+      document.getElementsByTagName('body')[0].innerHTML = '';
+    } else {
+      domReady();
+      updateMoney(0);
+if (browser.iphone || browser.ipad || browser.ipod) {
+  setStyle(bodyNode, {webkitTextSizeAdjust: 'none'});
+}TopMenu.init();
+initTopAudioPlayer();
+if (0) {
+  hide('support_link_td', 'top_support_link');
+}
+var ts_input = ge('ts_input');
+if (ts_input) {
+  placeholderSetup(ts_input, {back: false, reload: true, phColor: '#8fadc8'});
+}
+TopSearch.init();;shortCurrency();
+handlePageParams({"id":409734516,"pads":1,"leftblocks":"","leftads":"","ads_can_show":"","ads_showed":"","ads_section":"audio","loc":null,"wrap_page":1,"width":960,"width_dec":165,"width_dec_footer":165,"body_class":"","counters":"0,0,0,10,0,0,-1,-1,0,-1,0,-1,0,0,2","pvbig":0,"pvdark":1});addEvent(document, 'click', onDocumentClick);
+addLangKeys({"global_apps":"Приложения","global_friends":"Друзья","global_communities":"Сообщества","head_search_results":"Результаты поиска","global_chats":"Диалоги","global_show_all_results":"Показать все результаты","global_news_search_results":"Результаты поиска в новостях","global_emoji_cat_recent":"Часто используемые","global_emoji_cat_1":"Эмоции","global_emoji_cat_2":"Животные и растения","global_emoji_cat_3":"Жесты и люди","global_emoji_cat_4":"Еда и напитки","global_emoji_cat_5":"Спорт и активности","global_emoji_cat_6":"Путешествия и транспорт","global_emoji_cat_7":"Предметы","global_emoji_cat_8":"Символы","global_emoji_cat_9":"Флаги"}, true);
+addLangKeys({"audio_delete_audio":"Удалить аудиозапись","audio_dont_show":"Больше не показывать","audio_performers_only":"по исполнителям","audio_titles_search":"по композициям","audio_global_search_found":["","В поиске найдена %s аудиозапись","В поиске найдено %s аудиозаписи","В поиске найдено %s аудиозаписей"],"global_recent_search_history":"Недавние запросы","audio_repeat_tooltip":"Повторять эту композицию","audio_dont_repeat_tooltip":"Не повторять композицию","audio_ad_tooltip":"Реклама","audio_ad_title":"Реклама","audio_remove_from_list":"Удалить из прослушанных","audio_no_listened_info":"Пока нет информации о прослушанных аудиозаписях."});
+addTemplates({"_":"_","audio_bits_to_cls":"{\"1\":\"inlined\",\"2\":\"lyrics\",\"4\":\"canedit\",\"8\":\"canadd\",\"64\":\"recoms\",\"16\":\"claimed\",\"32\":\"claimed_title\",\"256\":\"from_queue\",\"512\":\"hq\",\"32768\":\"ltb\",\"16384\":\"lpb\",\"4096\":\"claim_hidden\",\"2048\":\"claim_mode\",\"8192\":\"claim_uma\"}","audio_inline_player":"<div class=\"audio_inline_player _audio_inline_player no_select\">\n  <div class=\"audio_inline_player_right\">\n    <div class=\"audio_inline_player_volume\"><\/div>\n  <\/div>\n  <div class=\"audio_inline_player_left\">\n    <div class=\"audio_inline_player_progress\"><\/div>\n  <\/div>\n<\/div>"});uiSearch.init('audio_search', { onChange:AudioPage.searchAudios,onFocus:AudioPage.onSearchFocused,onBlur:AudioPage.onSearchBlurred,onFilterRemoved:AudioPage.onFilterRemoved,isNew: 1,suggester:{"type":"audio","history":1,"historyItems":[["40826397","спокойная музыка","","спокойная музыка","e7a0f046302950efb6"],["22469317","там где нас нет","","там где нас нет","4dfe9dbdfa7647fd54"],["22461276","бит фоновый","","бит фоновый","ed61e298dfe847d576"],["22461138","битбокс","","битбокс","23d78bd995cc7d6939"],["22327298","басс","","басс","cb1f90cf4993227f30"]],"saveHash":"bdf9c722e5d535ea5b"},params:{"html":"  <div class=\"ui_search_params_wrap\">\n    <div class=\"ui_search_fltr_label\">Поиск<\/div>\n    <div class=\"ui_search_fltr_sel\">\n      <div class=\"radiobtn _audio_search_type _audio_search_type_all on\" onclick=\"radiobtn(this, 0, 'audio_search_type_0'); AudioPage(this).onSearchFiltersChanged()\">по композициям<\/div>\n      <div class=\"radiobtn _audio_search_type _audio_search_type_performer\" onclick=\"radiobtn(this, 1, 'audio_search_type_0'); AudioPage(this).onSearchFiltersChanged()\">по исполнителям<\/div>\n    <\/div>\n\n    <div class=\"ui_search_fltr_label\">Сортировать по<\/div>\n    <div class=\"ui_search_fltr_sel\"><input id=\"audio_fltr_sort\" class=\"text ui_search_fltr_field _audio_fltr_sort\" \/><\/div>\n\n    <div class=\"checkbox _audio_fltr_with_lyrics\" id=\"\" onclick=\"checkbox(this); AudioPage(this).onSearchFiltersChanged()\"><div><\/div>только с текстом<\/div>\n  <\/div>","script":"AudioPage(this).initSearchParams()"} });  cur.audioPage = new AudioPage(geByClass1('_audio_layout', ge('page_body')), {"type":"album","ownerId":409734516,"albumId":-2,"title":"Аудиозаписи Евгения Котова","list":[[456239036,409734516,"","Слушаешь ее и понимаешь, что жизнь прекрасна&#9829;","Спокойная музыка",260,0,0,"",6539380,32774,"","[]","\/c521bf1c1ec39f08ea\/aa1d61131673eae0db"],[456239035,409734516,"","Карл у Клары украл корралы","Исполнитель бот",7,0,0,"",0,32772,"","[]","\/ca0e7656b7e7a5ddc4\/63f3ebf0cfab6cf400"],[456239034,409734516,"","Тает Лед ","Грибы",200,0,0,"",0,4,"","[]","\/92759f7aa754b4eb43\/e6cb9939f70944ad94"],[456239033,409734516,"","Оп,эроина,оп","Carla&#39;s Dreams - Sub Pielea Mea (Midi Culture Remix) (SaB Bass)",214,0,0,"",0,16900,"","[]","\/e19930ada2888e28a1\/f8e836c56caf10ac2b"],[456239032,409734516,"","Хорошо там, где нас нет (OST «Родина») 2015","БАСТА",299,0,0,"",287239316,33286,"","[]","\/6c31a876933b2a1665\/a728ff2096fe1ee627"],[456239031,409734516,"","Сладкий Бред ( Русский Рэп,Лучшая музыка,Хиты 2013,2014,2015,2016 - Хит,Стиль,Музыка в Машину,Басс,бит,Минус,про любовь,самая самая,любимая,нежная,Денис Райдер,Крид,Егор,Актив,супер,баттл","Aktiv (В Машину,В тачку,Басс,САБ,Басы,хит 2015,2016,хитяра PHARAOH, Жак-Энтани,Скриптонит,Трап,The Chemodan Clan,HOMIE,ZippO,Dramma,Лёша Свик,Adamant,dom&#33;No,Денис Rider,Tanir,K.R.A,Баста,Смоки МО,Скриптонит,Тони,Тимоти,Руки Вверх,Brick Bazuka,Грязный ",197,0,0,"",308703488,16902,"","[]","\/0d639d0b283bf90152\/3de317e1a30d55ff35"],[456239030,409734516,""," Копы не любят нас,мы наваливаем басс","Грибы",138,0,0,"",0,33284,"","[]","\/dd0f074c810cad467c\/1426efd1a39e7aa5a5"],[456239029,409734516,"","Invincible","D&#926;AF K&#926;V",279,0,0,"",0,16388,"","[]","\/4372d78b4db3fb25bf\/cdc0c047f125ef5aca"],[456239028,409734516,"","Green Lights","E-dubble",235,0,0,"",173966195,6,"","[]","\/5b52c1c7f3339abac4\/9c1ec89ec0d0e8030c"],[456239027,409734516,"","Let Me Oh","E-dubble",196,0,0,"",170443942,6,"","[]","\/ea0287dcc27e4d1495\/40f60105b795c706f7"],[456239026,409734516,"","Loosen up","E-Dubble",231,0,0,"",170444123,6,"","[]","\/1202eb4e6be471d2db\/9b0dcc25f686d9d82c"],[456239025,409734516,"","Night Table","E-dubble",144,0,0,"",170637950,518,"","[]","\/a1c666ee3129619468\/8f198318ae0ff0531b"],[456239024,409734516,"","Roller Coaster","E-dubble",183,0,0,"",173961282,32774,"","[]","\/d816689a1875d2a590\/b031ce9ee3c0740f94"],[456239023,409734516,"","Haschpapies Edit","EgMan",285,0,0,"",0,32772,"","[]","\/6246457358a89471d9\/008f18b8d7f8060198"],[456239022,409734516,"","We Run The Street","EH&#33;DE &amp; Funk4Mation",223,0,0,"",208193452,16902,"","[]","\/342e1fecd402d0080c\/f10cf6ad0bcfe0d804"],[456239021,409734516,"","Jingle Bells (Original Mix)","EH&#33;DE",304,0,0,"",215220380,33286,"","[]","\/e6b8b508b10e5403ea\/88f288175b28794c82"],[456239020,409734516,"","Origin","Electric Joy Ride",306,0,0,"",171288198,16902,"","[]","\/33b2224e60eb01c40f\/b02f475e1684d2d9fd"],[456239019,409734516,"","Fly","ElectroActive",265,0,0,"",289531394,16390,"","[]","\/aa2024fd01474cc0ed\/6e6425d5551303ec59"],[456239018,409734516,"","Symbolism","Electro Light",293,0,0,"",0,516,"","[]","\/c6be79d25f20dde240\/ab4fa9ab2fb60ff5a4"],[456239017,409734516,"","агарио","для видео",231,0,0,"",292854966,518,"","[]","\/ef19cf0970e0999811\/9853f29358be70afd6"]],"hasMore":false,"nextOffset":0,"totalCount":0,"totalCountHash":"","blocks":{"friends":"<div class=\"page_block\" id=\"\">\n  <div class=\"audio_friends_list_wrap\">\n  <div class=\"ui_search_new ui_search ui_search_field_empty ui_search_dark _wrap\" data-init-options=\"{ onChange:debounce(AudioPage.searchMoreFriends, 200),isNew: 1 }\">\n  <div class=\"ui_search_input_block\">\n    <button class=\"ui_search_button_search _ui_search_button_search\"><\/button>\n    <div class=\"ui_search_input_inner\">\n      <div class=\"ui_search_progress\"><\/div>\n      <div class=\"ui_search_controls\">\n        \n        <button class=\"ui_search_reset_button ui_search_button_control\" onclick=\"return uiSearch.reset(this, false, event);\" onmouseover=\"showTooltip(this, {appendParentCls: '_audio_layout', black: true, text: 'Очистить поиск', shift: [6, 2, 0]})\"><\/button>\n      <\/div>\n      <div class=\"ui_search_suggester_shadow _ui_search_suggester_shadow\"><\/div>\n      <input type=\"text\" class=\"ui_search_field _field\" id=\"audio_friends_search\" autocomplete=\"off\" autocorrect=\"off\" autocapitalize=\"off\" spellcheck=\"false\"  placeholder=\"Поиск друзей\" \/>\n    <\/div>\n  <\/div>\n  <div class=\"ui_search_sugg_list _ui_search_sugg_list\"><\/div>\n  <div class=\"ui_search_filters_pane\" style=\"display: none;\">\n    <div class=\"ui_search_filters\"><\/div>\n  <\/div>\n<\/div>\n  <div style=\"position: relative; box-sizing: border-box;\">\n    <div class=\"audio_friends_list _audio_friends_list\">\n      <a href=\"\/emilhan609\" id=\"audio_friend_371797442\" data-id=\"371797442\" onclick=\"if (!checkEvent(event)) { cancelEvent(event); return nav.change({friend: 371797442, q: false}, event, { friendEl: this }) }\" class=\"clear_fix _audio_friend _audio_friend_371797442 audio_friend \">\n  <div class=\"ow_ava ow_ava_small fl_l\" style=\"background-image: url(https:\/\/pp.userapi.com\/c638730\/v638730442\/32bda\/3o3G4VvXwbA.jpg)\"><\/div>\n  <div class=\"audio_friend_name fl_l\" onmouseover=\"setTitle(this)\">Эмилхан Элисултанов<\/div>\n  <div class=\"audio_friend_audios_count fl_l\" onmouseover=\"setTitle(this)\" >33 аудиозаписи<\/div>\n<\/a><a href=\"\/id420509104\" id=\"audio_friend_420509104\" data-id=\"420509104\" onclick=\"if (!checkEvent(event)) { cancelEvent(event); return nav.change({friend: 420509104, q: false}, event, { friendEl: this }) }\" class=\"clear_fix _audio_friend _audio_friend_420509104 audio_friend \">\n  <div class=\"ow_ava ow_ava_small fl_l\" style=\"background-image: url(https:\/\/pp.userapi.com\/c837632\/v837632104\/2fe44\/aK3lRpZMUqs.jpg)\"><\/div>\n  <div class=\"audio_friend_name fl_l\" onmouseover=\"setTitle(this)\">Ольга Сычева<\/div>\n  <div class=\"audio_friend_audios_count fl_l\" onmouseover=\"setTitle(this)\" >12 аудиозаписей<\/div>\n<\/a><a href=\"\/id372102110\" id=\"audio_friend_372102110\" data-id=\"372102110\" onclick=\"if (!checkEvent(event)) { cancelEvent(event); return nav.change({friend: 372102110, q: false}, event, { friendEl: this }) }\" class=\"clear_fix _audio_friend _audio_friend_372102110 audio_friend \">\n  <div class=\"ow_ava ow_ava_small fl_l\" style=\"background-image: url(https:\/\/pp.userapi.com\/c636422\/v636422110\/5bd5c\/rS6umcvGdzU.jpg)\"><\/div>\n  <div class=\"audio_friend_name fl_l\" onmouseover=\"setTitle(this)\">Ангелина Любовина<\/div>\n  <div class=\"audio_friend_audios_count fl_l\" onmouseover=\"setTitle(this)\" >154 аудиозаписи<\/div>\n<\/a><a href=\"\/spamer1488\" id=\"audio_friend_367128170\" data-id=\"367128170\" onclick=\"if (!checkEvent(event)) { cancelEvent(event); return nav.change({friend: 367128170, q: false}, event, { friendEl: this }) }\" class=\"clear_fix _audio_friend _audio_friend_367128170 audio_friend \">\n  <div class=\"ow_ava ow_ava_small fl_l\" style=\"background-image: url(https:\/\/pp.userapi.com\/c638116\/v638116170\/2e945\/DuI5kY4xMBo.jpg)\"><\/div>\n  <div class=\"audio_friend_name fl_l\" onmouseover=\"setTitle(this)\">Алексей Климчук<\/div>\n  <div class=\"audio_friend_audios_count fl_l\" onmouseover=\"setTitle(this)\" >231 аудиозапись<\/div>\n<\/a><a href=\"\/id144533786\" id=\"audio_friend_144533786\" data-id=\"144533786\" onclick=\"if (!checkEvent(event)) { cancelEvent(event); return nav.change({friend: 144533786, q: false}, event, { friendEl: this }) }\" class=\"clear_fix _audio_friend _audio_friend_144533786 audio_friend \">\n  <div class=\"ow_ava ow_ava_small fl_l\" style=\"background-image: url(https:\/\/pp.userapi.com\/c639720\/v639720786\/126ec\/7Kh0MqVbPp8.jpg)\"><\/div>\n  <div class=\"audio_friend_name fl_l\" onmouseover=\"setTitle(this)\">Анастасия Синьковская<\/div>\n  <div class=\"audio_friend_audios_count fl_l\" onmouseover=\"setTitle(this)\" >355 аудиозаписей<\/div>\n<\/a><a href=\"\/bagerrrrrrrrrrrrrrrrrrrrrrrrrrr\" id=\"audio_friend_329917782\" data-id=\"329917782\" onclick=\"if (!checkEvent(event)) { cancelEvent(event); return nav.change({friend: 329917782, q: false}, event, { friendEl: this }) }\" class=\"clear_fix _audio_friend _audio_friend_329917782 audio_friend \">\n  <div class=\"ow_ava ow_ava_small fl_l\" style=\"background-image: url(https:\/\/pp.userapi.com\/c836338\/v836338782\/3f551\/oafe8gwZVmk.jpg)\"><\/div>\n  <div class=\"audio_friend_name fl_l\" onmouseover=\"setTitle(this)\">Анонимный Кот<\/div>\n  <div class=\"audio_friend_audios_count fl_l\" onmouseover=\"setTitle(this)\" >32767 аудиозаписей<\/div>\n<\/a><a href=\"\/fuck_soc\" id=\"audio_friend_191569091\" data-id=\"191569091\" onclick=\"if (!checkEvent(event)) { cancelEvent(event); return nav.change({friend: 191569091, q: false}, event, { friendEl: this }) }\" class=\"clear_fix _audio_friend _audio_friend_191569091 audio_friend \">\n  <div class=\"ow_ava ow_ava_small fl_l\" style=\"background-image: url(https:\/\/pp.userapi.com\/c638617\/v638617091\/228ab\/9UWky0TLgyQ.jpg)\"><\/div>\n  <div class=\"audio_friend_name fl_l\" onmouseover=\"setTitle(this)\">Денис Винницкий<\/div>\n  <div class=\"audio_friend_audios_count fl_l\" onmouseover=\"setTitle(this)\" >138 аудиозаписей<\/div>\n<\/a><a href=\"\/id394923727\" id=\"audio_friend_394923727\" data-id=\"394923727\" onclick=\"if (!checkEvent(event)) { cancelEvent(event); return nav.change({friend: 394923727, q: false}, event, { friendEl: this }) }\" class=\"clear_fix _audio_friend _audio_friend_394923727 audio_friend \">\n  <div class=\"ow_ava ow_ava_small fl_l\" style=\"background-image: url(\/images\/deactivated_50.png)\"><\/div>\n  <div class=\"audio_friend_name fl_l\" onmouseover=\"setTitle(this)\">Тёма Верховный-Флайшер<\/div>\n  <div class=\"audio_friend_audios_count fl_l\" onmouseover=\"setTitle(this)\" >14 аудиозаписей<\/div>\n<\/a>\n    <\/div>\n  <\/div>\n<\/div><div class=\"audio_friends_more_wrap\">\n  <button class=\"flat_button secondary audio_more_friends_btn\" onclick=\"AudioPage(this).showMoreFriends(this);\">Показать других<\/button>\n<\/div>\n<\/div>"}}, {"audioRowTpl":"<div class=\"audio_row _audio_row _audio_row_%1%_%0% %cls% clear_fix\" onclick=\"return getAudioPlayer().toggleAudio(this, event)\" data-audio=\"%serialized%\" data-full-id=\"%1%_%0%\" id=\"audio_%1%_%0%\">\n  <div class=\"audio_play_wrap\" data-nodrag=\"1\"><button class=\"audio_play _audio_play\" id=\"play_%1%_%0%\" aria-label=\"Воспроизвести \"><\/button><\/div>\n  <div class=\"audio_info\">\n    <div class=\"audio_duration_wrap _audio_duration_wrap\">\n      <div class=\"audio_hq_label\"><\/div>\n      <div class=\"audio_duration _audio_duration\">%duration%<\/div>\n      <div class=\"audio_acts\">\n        <div class=\"audio_act\" id=\"recom\" onmouseover=\"audioShowActionTooltip(this, '%1%_%0%')\" onclick=\"AudioPage(this).showRecoms(this, '%1%_%0%', event)\"><div><\/div><\/div>\n        <div class=\"audio_act\" id=\"next\" onmouseover=\"audioShowActionTooltip(this, '%1%_%0%')\" onclick=\"getAudioPlayer().setNext(this, event)\"><div><\/div><\/div>\n        <div class=\"audio_act\" id=\"edit\" onmouseover=\"audioShowActionTooltip(this, '%1%_%0%')\" onclick=\"AudioPage(this).editAudio(this, '%1%_%0%', event)\"><div><\/div><\/div>\n        <div class=\"audio_act _audio_act_delete\" id=\"delete\" onclick=\"AudioPage(this).deleteAudio(this, '%1%_%0%', event)\" onmouseover=\"audioShowActionTooltip(this, '%1%_%0%')\"><div><\/div><\/div>\n        <div class=\"audio_act\" id=\"add\" onclick=\"return addAudio(this, event)\" onmouseover=\"audioShowActionTooltip(this, '%1%_%0%')\"><div><\/div><\/div>\n        \n        \n      <\/div>\n    <\/div>\n    <div class=\"audio_title_wrap\"\n     ><a href=\"%search_href%\" onmouseover=\"setTitle(this)\" nodrag=\"1\" onclick=\"return audioSearchPerformer(this, event)\" class=\"audio_performer\">%4%<\/a\n     ><span class=\"audio_info_divider\">&ndash;<\/span\n     ><span class=\"audio_title _audio_title\" onmouseover=\"setTitle(this, domPN(this))\"\n        ><span class=\"audio_title_inner\" tabindex=\"0\" nodrag=\"1\" aria-label=\"%3%\" onclick=\"return toggleAudioLyrics(event, this, '%1%_%0%', '%9%')\">%3%<\/span>\n        \n        <span class=\"audio_author\" onclick=\"cur.cancelClick=true\">%8%<\/span>\n      <\/span\n    ><\/div>\n  <\/div>\n  <div class=\"_audio_player_wrap\"><\/div>\n  <div class=\"_audio_lyrics_wrap audio_lyrics\" data-nodrag=\"1\"><\/div>\n<\/div>","audioRowsPerPage":50,"oid":409734516,"additionalBlockSectionTpl":"<div class=\"_audio_additional_block _audio_additional_block_%block_id%\"><\/div>","emptyPlaceholder":"<div class=\"audio_empty_placeholder _audio_empty_placeholder no_rows\" style=\"\">%text%<\/div>","sortFilters":[[0,"По популярности"],[1,"По длительности"]],"moveHash":"747f0796f188c942d0","canAudioAddToGroup":false,"uploadBanned":false,"reorderHash":"af1aad921b2b97ba56","albumsReorderHash":"01b752d4537ffa0e5e","saveAlbumHash":"46f68b5eeb967c67cc","exp":false,"langs":{"audio_global_search_found":["","В поиске найдена %s аудиозапись","В поиске найдено %s аудиозаписи","В поиске найдено %s аудиозаписей"],"audio_no_audios_found":"По запросу {query} не найдено ни одной аудиозаписи","audio_performers_only":"по исполнителям","audio_search_with_text":"только с текстом","audio_search_by_length":"По длительности","audio_current_playing_from":"Сейчас играет — {playlist}","audio_delete_album_title":"Удаление альбома","audio_delete_album_are_you_sure":"Вы уверены, что хотите удалить этот альбом?","audio_delete_album_button":"Удалить","audio_no_upload_title":"Загрузка невозможна","audio_claims_no_upload":"Вы больше не можете загружать новые аудиозаписи, поскольку на Вас поступило много жалоб от правообладателей.","audio_flash_required":"Для прослушивания музыки необходим Flash плеер.<br>Вы можете установить его {link}здесь{\/link}.","audio_need_flash_title":"Необходим Flash-проигрыватель","audio_no_rec_load_msg":"Здесь Вы можете хранить Ваши аудиозаписи.<br>Для того чтобы загрузить первую аудиозапись, {link}нажмите здесь{\/link}.","audio_no_audio_recs_found":"Мы не смогли найти ничего похожего. <br>Попробуйте другую аудиозапись.","audio_no_recs_found":"Рекомендации основываются на музыке<br>из <b>списка Ваших аудиозаписей<\/b>.<br><br>Для получения рекомендаций добавьте на свою страницу<br>и прослушайте больше композиций.","audio_album_no_recs":"В альбоме ещё нет аудиозаписей.","audio_show_recommendations":"Показать похожие","audio_set_next_audio":"Воспроизвести следующей","audio_add_to_group":"Добавить в аудиозаписи сообщества","audio_restore_audio":"Восстановить аудиозапись","audio_edit_audio":"Редактировать аудиозапись","audio_add_to_audio":"Добавить в Мои Аудиозаписи","audio_delete_audio":"Удалить аудиозапись","audio_delete_all_title":"Удаление аудиозаписей","audio_delete_all":["","Удалить все его аудиозаписи за последнюю неделю","Удалить все её аудиозаписи за последнюю неделю"],"global_delete":"Удалить","global_cancel":"Отмена","audio_no_listened_info":"Пока нет информации о прослушанных аудиозаписях."},"md":false}, [456239036,409734516,"","Слушаешь ее и понимаешь, что жизнь прекрасна&#9829;","Спокойная музыка",260,0,0,"",6539380,32774,"","[]","\/c521bf1c1ec39f08ea\/aa1d61131673eae0db"]);
+  cur.destroy.push(function() {
+    cur.audioPage.destroy();
+  });  ;(function () {
+    var cb = function () {Notifier.init({"queue_id":"events_queue409734516","timestamp":827727811,"key":"FW9RONrUkTvAf0CL1ZWah83dp3QVeVzenBhqFxLSXKj6ikyDhqrIMm7usBaKC1Ha","uid":409734516,"version":10,"debug":false,"instance_id":"MzYyNDE2","server_url":"https:\/\/queuev4.vk.com\/im516","frame_path":"https:\/\/queuev4.vk.com\/q_frame.php?7","frame_url":"im516","refresh_url":"https:\/\/vk.com\/notifier.php","mutedPeers":[],"fc":{"version":23,"state":{"clist":{"min":true,"x":false,"y":false},"tabs":{"407667421_":{"min":false,"fx":true},"240317773_":{"min":false,"fx":1},"183766058_":{"min":false,"fx":true},"335982095_":{"min":false,"fx":true},"144533786_":{"min":false,"fx":true},"334940536_":{"min":false,"fx":1},"240620346_":{"min":false,"fx":true},"152730508_":{"min":false,"fx":true},"244991060_":{"min":false,"fx":1},"384451038_":{"min":false,"fx":true},"359629078_":{"min":false,"fx":true},"296330192_":{"min":false,"fx":1},"298120745_":{"min":false,"fx":true},"394923727_":{"min":false,"fx":true},"284032211_":{"min":false,"fx":true},"-98702615_":{"min":false,"fx":true},"-55866947_":{"min":false,"fx":true},"191569091_":{"min":false,"fx":true},"-136624903_":{"min":false,"fx":true},"-26580749_":{"min":false,"fx":1},"371521220_":{"min":false,"fx":true},"72778800_":{"min":false,"fx":1}},"version":23},"state_hash":"1491735338_9a11eaf78eaf938ab1"}})}
+    if (window.vk && window.vk.loaded) cb(); else addEvent(window, 'DOMContentLoaded load', cb);
+  })();
+  (new Image).src="https://r3.mail.ru/k?vk_id=409734516&src=desktop";
+;(function (d, w) {
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+    }
+  </script>
+</body>
+
+</html>
