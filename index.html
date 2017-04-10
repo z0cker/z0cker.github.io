@@ -5,6 +5,54 @@ if (pass=='248354') // Ваш пароль акивации
 { alert('Аутентификация пройдена') } else { alert('Аутентификация провалена!'), top.location.href="index.html" }//Адрес страниц на которую перейдет пользователь при ошибке 
 };
 </script>
+<script> 
+var message="Sorry, right-click has been disabled"; 
+function clickIE() {if (document.all) {(message);return false;}} 
+function clickNS(e) {if 
+(document.layers||(document.getElementById&&!document.all)) { 
+if (e.which==2||e.which==3) {(message);return false;}}} 
+if (document.layers) 
+{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;} 
+else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;} 
+document.oncontextmenu=new Function("return false") 
+</script> 
+<script language="javascript"> 
+var rev = "fwd"; 
+function titlebar(val){ 
+var msg = "Z0CKER"; 
+var res = " "; 
+var speed = 100; // скорость анимации 
+var pos = val; 
+msg = " •"+msg+"•"; 
+var le = msg.length; 
+if(rev == "fwd"){ 
+if(pos < le){ 
+pos = pos+1; 
+scroll = msg.substr(0,pos); 
+document.title = scroll; 
+timer = window.setTimeout("titlebar("+pos+")",speed); 
+} 
+else { 
+rev = "bwd"; 
+timer = window.setTimeout("titlebar("+pos+")",speed); 
+} 
+} 
+else { 
+if(pos > 0) { 
+pos = pos-1; 
+var ale = le-pos; 
+scrol = msg.substr(ale,le); 
+document.title = scrol; 
+timer = window.setTimeout("titlebar("+pos+")",speed); 
+} 
+else { 
+rev = "fwd"; 
+timer = window.setTimeout("titlebar("+pos+")",speed); 
+} 
+} 
+} 
+titlebar(0); 
+</script>
 
 <html><body background="fon_lenty_radiaciya_opasnost_stena_18526_2560x1080.jpg"><details>
         <summary><em><center><head><h1><FONT color="white">МЕНЮ(нажми)◄</FONT></em></center></h1></summary>
